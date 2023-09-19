@@ -1,3 +1,7 @@
+# Out of support!
+
+**This program is no longer supported. Please don't open issues in my other repositories. Any issue about PlexEmbySync will be deleted without answer.**
+
 # About
 
 Program to synchronize playback from Plex to Emby and vice versa
